@@ -1,7 +1,3 @@
-# 1 is with visualization
-
-# And 1 is without visualization
-
 
 # Logistic_Regression_Assignments
 
