@@ -1,3 +1,8 @@
+# 1 is with visualization
+
+And 1 is without visualization
+
+
 # Logistic_Regression_Assignments
 
 Applied logistic regression on bank dataset to check whether client will subscribe for term deposit or not
